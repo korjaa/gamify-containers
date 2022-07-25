@@ -1,5 +1,7 @@
 # Custom
 .idea
+Dockerfile.built
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
